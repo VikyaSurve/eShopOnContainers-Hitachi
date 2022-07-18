@@ -1,0 +1,6 @@
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/Services/Ordering/Ordering.SignalrHub/obj/Debug/net6.0/Ordering.SignalrHub.csproj.AssemblyReference.cache
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/Services/Ordering/Ordering.SignalrHub/obj/Debug/net6.0/Ordering.SignalrHub.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/Services/Ordering/Ordering.SignalrHub/obj/Debug/net6.0/Ordering.SignalrHub.AssemblyInfoInputs.cache
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/Services/Ordering/Ordering.SignalrHub/obj/Debug/net6.0/Ordering.SignalrHub.AssemblyInfo.cs
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/Services/Ordering/Ordering.SignalrHub/obj/Debug/net6.0/Ordering.SignalrHub.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/Services/Ordering/Ordering.SignalrHub/obj/Debug/net6.0/Ordering.SignalrHub.MvcApplicationPartsAssemblyInfo.cache

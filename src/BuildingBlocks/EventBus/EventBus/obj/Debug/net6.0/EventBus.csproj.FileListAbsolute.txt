@@ -1,0 +1,12 @@
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/EventBus/EventBus/bin/Debug/net6.0/EventBus.deps.json
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/EventBus/EventBus/bin/Debug/net6.0/EventBus.dll
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/EventBus/EventBus/bin/Debug/net6.0/EventBus.pdb
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/EventBus/EventBus/obj/Debug/net6.0/EventBus.csproj.AssemblyReference.cache
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/EventBus/EventBus/obj/Debug/net6.0/EventBus.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/EventBus/EventBus/obj/Debug/net6.0/EventBus.AssemblyInfoInputs.cache
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/EventBus/EventBus/obj/Debug/net6.0/EventBus.AssemblyInfo.cs
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/EventBus/EventBus/obj/Debug/net6.0/EventBus.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/EventBus/EventBus/obj/Debug/net6.0/EventBus.dll
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/EventBus/EventBus/obj/Debug/net6.0/refint/EventBus.dll
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/EventBus/EventBus/obj/Debug/net6.0/EventBus.pdb
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/EventBus/EventBus/obj/Debug/net6.0/ref/EventBus.dll

@@ -1,0 +1,15 @@
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/EventBus/EventBusRabbitMQ/bin/Debug/net6.0/EventBusRabbitMQ.deps.json
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/EventBus/EventBusRabbitMQ/bin/Debug/net6.0/EventBusRabbitMQ.dll
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/EventBus/EventBusRabbitMQ/bin/Debug/net6.0/EventBusRabbitMQ.pdb
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/EventBus/EventBusRabbitMQ/bin/Debug/net6.0/EventBus.dll
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/EventBus/EventBusRabbitMQ/bin/Debug/net6.0/EventBus.pdb
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/EventBus/EventBusRabbitMQ/obj/Debug/net6.0/EventBusRabbitMQ.csproj.AssemblyReference.cache
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/EventBus/EventBusRabbitMQ/obj/Debug/net6.0/EventBusRabbitMQ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/EventBus/EventBusRabbitMQ/obj/Debug/net6.0/EventBusRabbitMQ.AssemblyInfoInputs.cache
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/EventBus/EventBusRabbitMQ/obj/Debug/net6.0/EventBusRabbitMQ.AssemblyInfo.cs
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/EventBus/EventBusRabbitMQ/obj/Debug/net6.0/EventBusRabbitMQ.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/EventBus/EventBusRabbitMQ/obj/Debug/net6.0/EventBusRabbitMQ.csproj.CopyComplete
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/EventBus/EventBusRabbitMQ/obj/Debug/net6.0/EventBusRabbitMQ.dll
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/EventBus/EventBusRabbitMQ/obj/Debug/net6.0/refint/EventBusRabbitMQ.dll
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/EventBus/EventBusRabbitMQ/obj/Debug/net6.0/EventBusRabbitMQ.pdb
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/EventBus/EventBusRabbitMQ/obj/Debug/net6.0/ref/EventBusRabbitMQ.dll

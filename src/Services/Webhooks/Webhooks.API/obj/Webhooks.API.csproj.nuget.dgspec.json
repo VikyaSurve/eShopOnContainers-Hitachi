@@ -1,0 +1,580 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/Services/Webhooks/Webhooks.API/Webhooks.API.csproj": {}
+  },
+  "projects": {
+    "/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/Devspaces.Support/Devspaces.Support.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/Devspaces.Support/Devspaces.Support.csproj",
+        "projectName": "Devspaces.Support",
+        "projectPath": "/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/Devspaces.Support/Devspaces.Support.csproj",
+        "packagesPath": "/Users/admin/.nuget/packages/",
+        "outputPath": "/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/Devspaces.Support/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/NuGet.Config",
+          "/Users/admin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/EventBus/EventBus/EventBus.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/EventBus/EventBus/EventBus.csproj",
+        "projectName": "EventBus",
+        "projectPath": "/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/EventBus/EventBus/EventBus.csproj",
+        "packagesPath": "/Users/admin/.nuget/packages/",
+        "outputPath": "/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/EventBus/EventBus/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/NuGet.Config",
+          "/Users/admin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/EventBus/EventBusRabbitMQ/EventBusRabbitMQ.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/EventBus/EventBusRabbitMQ/EventBusRabbitMQ.csproj",
+        "projectName": "EventBusRabbitMQ",
+        "projectPath": "/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/EventBus/EventBusRabbitMQ/EventBusRabbitMQ.csproj",
+        "packagesPath": "/Users/admin/.nuget/packages/",
+        "outputPath": "/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/EventBus/EventBusRabbitMQ/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/NuGet.Config",
+          "/Users/admin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/EventBus/EventBus/EventBus.csproj": {
+                "projectPath": "/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/EventBus/EventBus/EventBus.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
+            "Microsoft.CSharp": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Polly": {
+              "target": "Package",
+              "version": "[7.2.3, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/EventBus/EventBusServiceBus/EventBusServiceBus.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/EventBus/EventBusServiceBus/EventBusServiceBus.csproj",
+        "projectName": "EventBusServiceBus",
+        "projectPath": "/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/EventBus/EventBusServiceBus/EventBusServiceBus.csproj",
+        "packagesPath": "/Users/admin/.nuget/packages/",
+        "outputPath": "/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/EventBus/EventBusServiceBus/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/NuGet.Config",
+          "/Users/admin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/EventBus/EventBus/EventBus.csproj": {
+                "projectPath": "/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/EventBus/EventBus/EventBus.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
+            "Azure.Messaging.ServiceBus": {
+              "target": "Package",
+              "version": "[7.9.0, )"
+            },
+            "Microsoft.CSharp": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/EventBus/IntegrationEventLogEF/IntegrationEventLogEF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/EventBus/IntegrationEventLogEF/IntegrationEventLogEF.csproj",
+        "projectName": "IntegrationEventLogEF",
+        "projectPath": "/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/EventBus/IntegrationEventLogEF/IntegrationEventLogEF.csproj",
+        "packagesPath": "/Users/admin/.nuget/packages/",
+        "outputPath": "/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/EventBus/IntegrationEventLogEF/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/NuGet.Config",
+          "/Users/admin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/EventBus/EventBus/EventBus.csproj": {
+                "projectPath": "/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/EventBus/EventBus/EventBus.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/WebHostCustomization/WebHost.Customization/WebHost.Customization.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/WebHostCustomization/WebHost.Customization/WebHost.Customization.csproj",
+        "projectName": "WebHost.Customization",
+        "projectPath": "/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/WebHostCustomization/WebHost.Customization/WebHost.Customization.csproj",
+        "packagesPath": "/Users/admin/.nuget/packages/",
+        "outputPath": "/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/WebHostCustomization/WebHost.Customization/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/NuGet.Config",
+          "/Users/admin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.NETCore.Platforms": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Polly": {
+              "target": "Package",
+              "version": "[7.2.3, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/Services/Webhooks/Webhooks.API/Webhooks.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/Services/Webhooks/Webhooks.API/Webhooks.API.csproj",
+        "projectName": "Webhooks.API",
+        "projectPath": "/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/Services/Webhooks/Webhooks.API/Webhooks.API.csproj",
+        "packagesPath": "/Users/admin/.nuget/packages/",
+        "outputPath": "/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/Services/Webhooks/Webhooks.API/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/NuGet.Config",
+          "/Users/admin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/Devspaces.Support/Devspaces.Support.csproj": {
+                "projectPath": "/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/Devspaces.Support/Devspaces.Support.csproj"
+              },
+              "/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/EventBus/EventBus/EventBus.csproj": {
+                "projectPath": "/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/EventBus/EventBus/EventBus.csproj"
+              },
+              "/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/EventBus/EventBusRabbitMQ/EventBusRabbitMQ.csproj": {
+                "projectPath": "/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/EventBus/EventBusRabbitMQ/EventBusRabbitMQ.csproj"
+              },
+              "/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/EventBus/EventBusServiceBus/EventBusServiceBus.csproj": {
+                "projectPath": "/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/EventBus/EventBusServiceBus/EventBusServiceBus.csproj"
+              },
+              "/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/EventBus/IntegrationEventLogEF/IntegrationEventLogEF.csproj": {
+                "projectPath": "/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/EventBus/IntegrationEventLogEF/IntegrationEventLogEF.csproj"
+              },
+              "/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/WebHostCustomization/WebHost.Customization/WebHost.Customization.csproj": {
+                "projectPath": "/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/WebHostCustomization/WebHost.Customization/WebHost.Customization.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AspNetCore.HealthChecks.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "AspNetCore.HealthChecks.UI.Client": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.ApplicationInsights.AspNetCore": {
+              "target": "Package",
+              "version": "[2.20.0, )"
+            },
+            "Microsoft.ApplicationInsights.DependencyCollector": {
+              "target": "Package",
+              "version": "[2.20.0, )"
+            },
+            "Microsoft.ApplicationInsights.Kubernetes": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.AspNetCore.HealthChecks": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.AzureAppServices": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.16.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.3.2, )"
+            }
+          },
+          "imports": [
+            "portable-net45+win8+wp8+wpa81",
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

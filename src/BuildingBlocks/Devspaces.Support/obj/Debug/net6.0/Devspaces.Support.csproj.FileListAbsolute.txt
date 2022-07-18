@@ -1,0 +1,12 @@
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/Devspaces.Support/bin/Debug/net6.0/Devspaces.Support.deps.json
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/Devspaces.Support/bin/Debug/net6.0/Devspaces.Support.dll
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/Devspaces.Support/bin/Debug/net6.0/Devspaces.Support.pdb
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/Devspaces.Support/obj/Debug/net6.0/Devspaces.Support.csproj.AssemblyReference.cache
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/Devspaces.Support/obj/Debug/net6.0/Devspaces.Support.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/Devspaces.Support/obj/Debug/net6.0/Devspaces.Support.AssemblyInfoInputs.cache
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/Devspaces.Support/obj/Debug/net6.0/Devspaces.Support.AssemblyInfo.cs
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/Devspaces.Support/obj/Debug/net6.0/Devspaces.Support.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/Devspaces.Support/obj/Debug/net6.0/Devspaces.Support.dll
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/Devspaces.Support/obj/Debug/net6.0/refint/Devspaces.Support.dll
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/Devspaces.Support/obj/Debug/net6.0/Devspaces.Support.pdb
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/Devspaces.Support/obj/Debug/net6.0/ref/Devspaces.Support.dll

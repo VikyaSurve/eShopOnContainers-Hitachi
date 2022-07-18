@@ -1,0 +1,14 @@
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/WebHostCustomization/WebHost.Customization/bin/Debug/net6.0/WebHost.Customization.deps.json
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/WebHostCustomization/WebHost.Customization/bin/Debug/net6.0/WebHost.Customization.runtimeconfig.json
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/WebHostCustomization/WebHost.Customization/bin/Debug/net6.0/WebHost.Customization.dll
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/WebHostCustomization/WebHost.Customization/bin/Debug/net6.0/WebHost.Customization.pdb
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/WebHostCustomization/WebHost.Customization/obj/Debug/net6.0/WebHost.Customization.csproj.AssemblyReference.cache
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/WebHostCustomization/WebHost.Customization/obj/Debug/net6.0/WebHost.Customization.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/WebHostCustomization/WebHost.Customization/obj/Debug/net6.0/WebHost.Customization.AssemblyInfoInputs.cache
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/WebHostCustomization/WebHost.Customization/obj/Debug/net6.0/WebHost.Customization.AssemblyInfo.cs
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/WebHostCustomization/WebHost.Customization/obj/Debug/net6.0/WebHost.Customization.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/WebHostCustomization/WebHost.Customization/obj/Debug/net6.0/WebHost.Customization.dll
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/WebHostCustomization/WebHost.Customization/obj/Debug/net6.0/refint/WebHost.Customization.dll
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/WebHostCustomization/WebHost.Customization/obj/Debug/net6.0/WebHost.Customization.pdb
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/WebHostCustomization/WebHost.Customization/obj/Debug/net6.0/WebHost.Customization.genruntimeconfig.cache
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/BuildingBlocks/WebHostCustomization/WebHost.Customization/obj/Debug/net6.0/ref/WebHost.Customization.dll

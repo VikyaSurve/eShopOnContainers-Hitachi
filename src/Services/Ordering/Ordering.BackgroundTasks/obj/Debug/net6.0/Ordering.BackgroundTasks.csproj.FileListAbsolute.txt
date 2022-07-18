@@ -1,0 +1,5 @@
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/Services/Ordering/Ordering.BackgroundTasks/obj/Debug/net6.0/Ordering.BackgroundTasks.csproj.AssemblyReference.cache
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/Services/Ordering/Ordering.BackgroundTasks/obj/Debug/net6.0/Ordering.BackgroundTasks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/Services/Ordering/Ordering.BackgroundTasks/obj/Debug/net6.0/Ordering.BackgroundTasks.AssemblyInfoInputs.cache
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/Services/Ordering/Ordering.BackgroundTasks/obj/Debug/net6.0/Ordering.BackgroundTasks.AssemblyInfo.cs
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/Services/Ordering/Ordering.BackgroundTasks/obj/Debug/net6.0/Ordering.BackgroundTasks.csproj.CoreCompileInputs.cache

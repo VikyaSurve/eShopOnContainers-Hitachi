@@ -1,0 +1,7 @@
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/Services/Ordering/Ordering.API/obj/Debug/net6.0/Ordering.API.csproj.AssemblyReference.cache
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/Services/Ordering/Ordering.API/obj/Debug/net6.0/Ordering.API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/Services/Ordering/Ordering.API/obj/Debug/net6.0/Ordering.API.AssemblyInfoInputs.cache
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/Services/Ordering/Ordering.API/obj/Debug/net6.0/Ordering.API.AssemblyInfo.cs
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/Services/Ordering/Ordering.API/obj/Debug/net6.0/Ordering.API.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/Services/Ordering/Ordering.API/obj/Debug/net6.0/Ordering.API.MvcApplicationPartsAssemblyInfo.cs
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/Services/Ordering/Ordering.API/obj/Debug/net6.0/Ordering.API.MvcApplicationPartsAssemblyInfo.cache

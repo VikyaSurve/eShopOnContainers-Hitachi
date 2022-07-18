@@ -22,13 +22,15 @@ finally
     Log.CloseAndFlush();
 }
 
-IWebHost BuildWebHost(IConfiguration configuration, string[] args) =>
-    WebHost.CreateDefaultBuilder(args)
-        .CaptureStartupErrors(false)
-        .ConfigureAppConfiguration(x => x.AddConfiguration(configuration))
-        .UseStartup<Startup>()
-        .UseSerilog()
-        .Build();
+IWebHost BuildWebHost(IConfiguration configuration, string[] args)
+{
+    return WebHost.CreateDefaultBuilder(args)
+.CaptureStartupErrors(false)
+.ConfigureAppConfiguration(x => x.AddConfiguration(configuration))
+.UseStartup<Startup>()
+.UseSerilog()
+.Build();
+}
 
 Serilog.ILogger CreateSerilogLogger(IConfiguration configuration)
 {
@@ -45,7 +47,7 @@ Serilog.ILogger CreateSerilogLogger(IConfiguration configuration)
     }
     if (!string.IsNullOrWhiteSpace(logstashUrl))
     {
-        cfg.WriteTo.Http(logstashUrl);
+        //cfg.WriteTo.Http(logstashUrl);
     }
     return cfg.CreateLogger();
 }

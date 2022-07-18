@@ -1,0 +1,6 @@
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/Services/Payment/Payment.API/obj/Debug/net6.0/Payment.API.csproj.AssemblyReference.cache
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/Services/Payment/Payment.API/obj/Debug/net6.0/Payment.API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/Services/Payment/Payment.API/obj/Debug/net6.0/Payment.API.AssemblyInfoInputs.cache
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/Services/Payment/Payment.API/obj/Debug/net6.0/Payment.API.AssemblyInfo.cs
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/Services/Payment/Payment.API/obj/Debug/net6.0/Payment.API.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/Services/Payment/Payment.API/obj/Debug/net6.0/Payment.API.MvcApplicationPartsAssemblyInfo.cache

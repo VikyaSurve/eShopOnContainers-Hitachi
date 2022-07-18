@@ -1,0 +1,7 @@
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/Services/Basket/Basket.API/obj/Debug/net6.0/Basket.API.csproj.AssemblyReference.cache
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/Services/Basket/Basket.API/obj/Debug/net6.0/Basket.API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/Services/Basket/Basket.API/obj/Debug/net6.0/Basket.API.AssemblyInfoInputs.cache
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/Services/Basket/Basket.API/obj/Debug/net6.0/Basket.API.AssemblyInfo.cs
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/Services/Basket/Basket.API/obj/Debug/net6.0/Basket.API.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/Services/Basket/Basket.API/obj/Debug/net6.0/Basket.API.MvcApplicationPartsAssemblyInfo.cs
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/Services/Basket/Basket.API/obj/Debug/net6.0/Basket.API.MvcApplicationPartsAssemblyInfo.cache

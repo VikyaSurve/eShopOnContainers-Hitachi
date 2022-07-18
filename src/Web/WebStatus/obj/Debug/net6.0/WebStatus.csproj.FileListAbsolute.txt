@@ -1,0 +1,8 @@
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/Web/WebStatus/obj/Debug/net6.0/WebStatus.csproj.AssemblyReference.cache
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/Web/WebStatus/obj/Debug/net6.0/WebStatus.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/Web/WebStatus/obj/Debug/net6.0/WebStatus.AssemblyInfoInputs.cache
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/Web/WebStatus/obj/Debug/net6.0/WebStatus.AssemblyInfo.cs
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/Web/WebStatus/obj/Debug/net6.0/WebStatus.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/Web/WebStatus/obj/Debug/net6.0/WebStatus.MvcApplicationPartsAssemblyInfo.cache
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/Web/WebStatus/obj/Debug/net6.0/WebStatus.RazorAssemblyInfo.cache
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/Web/WebStatus/obj/Debug/net6.0/WebStatus.RazorAssemblyInfo.cs

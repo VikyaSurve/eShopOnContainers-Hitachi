@@ -1,0 +1,7 @@
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/ApiGateways/Web.Bff.Shopping/aggregator/obj/Debug/net6.0/Web.Shopping.HttpAggregator.csproj.AssemblyReference.cache
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/ApiGateways/Web.Bff.Shopping/aggregator/obj/Debug/net6.0/Web.Shopping.HttpAggregator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/ApiGateways/Web.Bff.Shopping/aggregator/obj/Debug/net6.0/Web.Shopping.HttpAggregator.AssemblyInfoInputs.cache
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/ApiGateways/Web.Bff.Shopping/aggregator/obj/Debug/net6.0/Web.Shopping.HttpAggregator.AssemblyInfo.cs
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/ApiGateways/Web.Bff.Shopping/aggregator/obj/Debug/net6.0/Web.Shopping.HttpAggregator.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/ApiGateways/Web.Bff.Shopping/aggregator/obj/Debug/net6.0/Web.Shopping.HttpAggregator.MvcApplicationPartsAssemblyInfo.cs
+/Users/admin/Documents/GitHub/eShopOnContainers-Hitachi/src/ApiGateways/Web.Bff.Shopping/aggregator/obj/Debug/net6.0/Web.Shopping.HttpAggregator.MvcApplicationPartsAssemblyInfo.cache
